@@ -9,8 +9,11 @@
         }
     ],
     "require": {
+        "php": "^7.0",
     },
     "autoload": {
-        "classmap": ["index.php"]
+        "psr-4": {
+          "Yyh\\Utils\\": "src/"
+        }
     }
 }
