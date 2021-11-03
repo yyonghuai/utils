@@ -1,0 +1,16 @@
+{
+    "name": "yyonghuai/utils",
+    "description": "this is a php utils",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yyonghuai",
+            "email": "455570262@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "classmap": ["index.php"]
+    }
+}
